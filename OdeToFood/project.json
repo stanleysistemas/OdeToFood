@@ -1,0 +1,7 @@
+﻿{
+  "dependencies": {
+    "Microsoft.AspNet.Diagnostics": "1.0.0-rc1-final",
+    "Microsoft.Extensions.Configuration.Fileextensions": "1.1.2",
+    "Microsoft.Extensions.Configuration.Json":"1.1.2" 
+  }
+}
